@@ -1,1 +1,7 @@
-# Libvirt-avec-Qemu-et-KVM
+# LIBVIRT (QEMU & KVM)
+
+## Installation sous linux
+### Test de compatibilité avec notre CPU
+''' kvm-ok '''
+
+
